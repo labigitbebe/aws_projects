@@ -1,13 +1,13 @@
 # AWS_Terraform_EC2_Docker
 Provisioning AWS Resources using Terraform + Docker
 
-# This project use Terraform  to create AWS Infrastructure
+# This project uses Terraform to create AWS Infrastructure
 
 - AWS connection requirements
 
 -Download the AWS toolkit on the VScode Extension
 -Create an AWS user profile to connect to the AWS console via CLI
--Create an IAM user and grant administrator permission
+-Create an IAM user and grant the administrator permission
 -Use AWS Access and Secret key and connect AWS CLI
 
 - Create Network requirements
